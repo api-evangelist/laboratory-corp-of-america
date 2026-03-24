@@ -1,0 +1,7 @@
+aid: laboratory-corp-of-america
+url: https://raw.githubusercontent.com/api-evangelist/laboratory-corp-of-america/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.laboratory-corp-of-america.com
