@@ -1,7 +1,11 @@
 aid: laboratory-corp-of-america
-url: https://raw.githubusercontent.com/api-evangelist/laboratory-corp-of-america/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/laboratory-corp-of-america/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.laboratory-corp-of-america.com
+description: >-
+  LabCorp is a leading global life sciences company providing diagnostic, drug development,
+  and technology-enabled solutions to improve health and improve lives.
