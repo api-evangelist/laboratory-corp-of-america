@@ -67,7 +67,7 @@ common:
   - url: https://ir.labcorp.com/
     type: Investor Relations
   - url: https://www.labcorp.com/hipaa-privacy
-    type: Privacy Policy
+    type: PrivacyPolicy
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
