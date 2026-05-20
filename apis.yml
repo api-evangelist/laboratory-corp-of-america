@@ -58,6 +58,8 @@ apis:
       - url: https://www.labcorp.com/help/contact-us
         type: Support
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/laboratory-corporation-of-america-holdings
   - url: https://www.labcorp.com
     type: Website
   - url: https://github.com/api-evangelist/labcorp
