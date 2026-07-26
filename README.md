@@ -38,11 +38,6 @@ Labcorp supports HL7 FHIR-based exchange of laboratory orders, results, and diag
 - [Documentation](https://www.labcorp.com/organizations/health-systems)
 - [Support](https://www.labcorp.com/help/contact-us)
 
-### Labcorp Link Provider Integration
-
-Provider-facing platform for ordering laboratory tests and receiving results, supporting HL7 v2 and FHIR-based EHR integration.
-
-**Human URL:** [https://www.labcorp.com/labcorp-link](https://www.labcorp.com/labcorp-link)
 
 #### Properties
 
