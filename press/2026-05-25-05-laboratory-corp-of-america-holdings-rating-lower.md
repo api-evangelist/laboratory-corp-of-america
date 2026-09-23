@@ -1,7 +1,9 @@
 ---
 title: Laboratory Corp. of America Holdings Rating Lower
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/1380140
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Laboratory Corp. of America" press release artificial intelligence'
 position: 5
 source: serpapi-google

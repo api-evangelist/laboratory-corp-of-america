@@ -1,7 +1,9 @@
 ---
 title: 10-K | iXBRL Viewer | Laboratory Corp OF America Holdings
 url: https://ir.labcorp.com/node/35801/ixbrl-viewer
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Laboratory Corp. of America" press release artificial intelligence'
 position: 1
 source: serpapi-google

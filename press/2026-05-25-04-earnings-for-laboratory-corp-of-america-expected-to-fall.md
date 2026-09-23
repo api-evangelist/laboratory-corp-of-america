@@ -1,7 +1,9 @@
 ---
 title: Earnings for Laboratory Corp. Of America Expected to Fall
 url: https://www.forbes.com/sites/narrativescience/2014/07/16/earnings-for-laboratory-corp-of-america-expected-to-fall/
-date: '2026-05-25'
+published: '2014-07-16'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Laboratory Corp. of America" press release artificial intelligence'
 position: 4
 source: serpapi-google
